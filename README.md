@@ -100,7 +100,7 @@ When the three edge-detected pictures are compared, it is clear that Image 1 (Pr
 
 ## Authors
 
-- [@Shubham722-227](https://github.com/Shubham722-227)
+- [@Shubham Singh](https://github.com/Shubham722-227)
 
 
 ## License
