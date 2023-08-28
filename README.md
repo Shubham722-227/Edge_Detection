@@ -70,22 +70,28 @@ title('Image 3');
 
 ## Input Images
 * Original RGB image.
+  
 ![Flower](img/flower.jpg)
 
 * Grayscale converted image.
+  
 ![RGB2Grayscale](img/rgb2grayscale.png)
 
 * HSI converted image.
+  
 ![RGB2HSI](img/rgb2hsi.png)
 
 ## Output Images
 * Edges using the Prewitt method on grayscale image (Image 1).
+  
 ![Grayscale](img/grayscale.png)
 
 * Edges using the Prewitt method on HSI image (Intensity Component) (Image 2).
+  
 ![Grayscale](img/hsi1.png)
 
 * Edges using the Prewitt method on HSI image (Hue Component) (Image 3).
+
 ![Grayscale](img/hsih.png)
 
 
