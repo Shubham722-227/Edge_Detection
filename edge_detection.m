@@ -1,6 +1,6 @@
 % MATLAB code for convert RGB into Grayscale and to display edges.
 % read the image.
-k=imread("image.jpg");
+k=imread("flower.jpg");
 %Convert into double format.
 k=double(k);
 % take the average of R, G and B channels.
