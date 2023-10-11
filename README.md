@@ -98,6 +98,9 @@ title('Image 3');
 ## Conclusion
 When the three edge-detected pictures are compared, it is clear that Image 1 (Prewitt edges on grayscale image) and Image 2 (Prewitt edges on HSI image - Intensity Component) are quite similar. Image 3 (Prewitt edges on the HSI image - Hue Component) is, nonetheless, distinct from the other two. Image 1 and Image 2 both correctly represent the image's edges, making them preferred alternatives to Image 3.
 
+### if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<a href="https://www.buymeacoffee.com/techs4shubq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 ## Authors
 
 - [@Shubham Singh](https://github.com/Shubham722-227)
